@@ -1,0 +1,9 @@
+With your first EP point buy Time Dimension 1 (TD1), go to the Infinity Upgrades page and enable the auto x2 IP multiplier. Progress through everything again, remember to Break Infinity, complete all normal challenges and ICs.
+TDs give Time Shards the same as how Infinity Dimensions give Infinity Power, Time Shards reach breakpoints to give a free Tickspeed upgrade, more tickspeed gives more AM which gives more IP.
+You get Time Theoroms from reaching and purchasing AM and IP breakpoints and also can purchase TT for EP. TT are used to buy Time Studies. TS in the study tree are numbered.
+This is a single long run, its purpose is to get to a very powerful Time Study that will help you progress much faster and much further. As you progress remember to buy IDs and always check the TS page to buy TT.
+The final goal is to get e426IP which gives 3EP on Eternity. Buying all TT along the way will get 9TT, these should be spent into TS : 11,21,22,33.
+Before you Eternity press "Respec Time Studies on next Eternity" to enable it, this will refund all your spent TT back so you can select different TS.
+Purchases so far : e80,000AM , e400IP . With 3EP spend this on 2 TT purchases for 1EP and 2EP. Giving a total of 11TT to use in the TS tree. TS setup : 11,22,32,42 .
+Abbreviations again :     AM = Antimatter     IP = Infinity Points     RG = Replicanti Galaxy     EP = Eternity Points     TD = Time Dimensions     TT = Time Theorems     TS = Time Study     EM = Eternity Milestone
+Note that there is IP = Infinity Points and Infinity Power which are different, Infinity Power boosts Antimatter Dimensions. Also EP = Eternity Points however Eternities are the number of times you have eternitied.
